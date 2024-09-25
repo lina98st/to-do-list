@@ -1,4 +1,5 @@
-My first to do list
-Vue.js
-HTML
-CSS
+My first to do list <br>
+Technologies used: <br>
+Vue.js <br>
+HTML <br>
+CSS <br>
